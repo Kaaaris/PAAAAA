@@ -14,7 +14,7 @@ password = "".join(random.sample(all, length))
 random_password = password
 user = '2'
 passw = '1'
-add_mail = 'garis.bonnier@free.fr'
+add_mail = ''
 
 all = numbers + lower 
 length = 5
